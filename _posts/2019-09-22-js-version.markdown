@@ -10,7 +10,7 @@ tags:
     - muchfeelinglittlethinking
     - 太閒
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="1423" height="625" src="https://www.youtube.com/embed/WkIe3exV_Ao" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 今天看到特別鍾愛的一位藝人在社交平台上post了一張自拍，說是為了接下來的重要演出，去打了眼袋槍。那個瞬間我覺得不能接受，對他的喜愛度從80%降到20%，甚至想去comment「為什麼要這樣做」諸如此類的在我看來還算禮貌的問話。轉而想起他很久之前私底下勸歌迷不要紋身，理由是「身體髮膚受之父母」，便想在這一刻質問他「眼袋不也是受之父母嗎？」。只因他初初入行時就有深重的眼袋，伴隨他這麼多年似乎是人們潛意識中的「招牌」。
 我察覺到自己的神經質，沒去發癲。
