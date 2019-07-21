@@ -1,8 +1,7 @@
 ---
-layout:     keynote
+layout:     post
 title:      "EXP"
 subtitle:   ""
-iframe:     "http://huangxuan.me/js-module-7day/"
 date:       2019-07-20
 author:     "SycamoreUtopia"
 header-img: "img/post-bg-js-version.jpg"
