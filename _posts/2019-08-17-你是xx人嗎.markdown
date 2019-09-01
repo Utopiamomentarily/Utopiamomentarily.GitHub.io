@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "你是你是\*\*人嗎?"
+title:      "你是xx人嗎?"
 subtitle:   ""
 date:       2019-08-17
 author:     "akia"
