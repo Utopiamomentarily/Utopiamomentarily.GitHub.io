@@ -13,7 +13,8 @@ future: true
 
 # SNS settings
 sns:
-  instagram: '//www.instagram.com/akia0203/'
+  email: sycamoreutopia@gmail.com
+  instagram_username: "akia0203"
 
 
 
