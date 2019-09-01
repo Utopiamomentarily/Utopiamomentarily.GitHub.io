@@ -12,9 +12,10 @@ url: "http://Utopiamomentarily.GitHub.io"  # 此处填写你的博客地址
 future: true
 
 # SNS settings
-RSS: true
-email: "sycamoreutopia@gmail.com"
-instagram_username: "akia0203"
+sns:
+  instagram: '//www.instagram.com/akia0203/'
+
+
 
 
 
