@@ -48,9 +48,11 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: sycamoreutopia
-
-
+comments :
+  provider : disqus    # 啟動的留言板服務，這邊就用預設即可
+  disqus :
+    short_name : sycamoreutopia    # 將內容替換成剛剛在disqus上申請的site name
+ 
 
 
 
