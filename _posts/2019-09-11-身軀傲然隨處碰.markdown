@@ -8,7 +8,7 @@ header-img: "img/post-bg.jpg"
 tags:
     - 感覺|Feelings
 ---
-![avatar](/Users/gongzeheng/Utopiamomentarily.github.io/img/in-post/StrassenEngel.JPG)
+![avatar](https://github.com/Utopiamomentarily/Utopiamomentarily.github.io/blob/master/img/in-post/StrassenEngel.JPG?raw=true)
 
 前些日子在機場回收塑料瓶機器的捐款機構裡看到了Strassen Engel這個選項，然後才驚覺原來我從來都沒有弄清楚過「馬路天使」的含義。
 
