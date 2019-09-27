@@ -6,7 +6,7 @@ date:       2019-07-03
 author:     "akia"
 header-img: "img/post-bg.jpg"
 tags:
-    - 生活流水|Life
+    - 生活流水|DailyLife
 ---
 
 
