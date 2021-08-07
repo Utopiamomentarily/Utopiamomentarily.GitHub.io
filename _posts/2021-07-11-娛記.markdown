@@ -1,0 +1,13 @@
+---
+layout:     post
+title:      "娛記"
+subtitle:   ""
+date:       2021-07-11
+author:     "恩永"
+header-img: "img/post-bg.jpg"
+tags:
+    - 寫詩唱歌|Drink&Dance
+---
+
+我的兒時志願是做一個無良娛記，寫盡無聊文章，  
+浪費自己及他人的陽壽，謀財害命直到不能。
